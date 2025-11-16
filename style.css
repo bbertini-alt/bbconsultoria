@@ -1,42 +1,58 @@
-body {
+/* Reset */
+* {
     margin: 0;
-    font-family: Arial, sans-serif;
-    color: #222;
+    padding: 0;
+    box-sizing: border-box;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    background: #ffffff;
+}
+
+/* Container */
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+
+/* Hero */
 .hero {
-    height: 100vh;
-    background: linear-gradient(135deg, #0099ff, #00ffaa);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    background-color: #f5f5f5;
+    padding: 4rem 0;
     text-align: center;
-    color: white;
 }
 
 .btn {
-    margin-top: 20px;
-    padding: 12px 24px;
-    background: white;
-    color: #0099ff;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.section {
-    padding: 80px 20px;
-    text-align: center;
-}
-
-.dark {
-    background: #f4f4f4;
-}
-
-footer {
-    text-align: center;
-    padding: 20px;
-    background: #111;
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #0056b3;
     color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+/* Sections */
+.section {
+    padding: 4rem 0;
+}
+
+.section.alt {
+    background-color: #fafafa;
+}
+
+/* Footer */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 0;
+}
+.hero.scrolled {
+    background-color: #e9e9e9;
+    transition: background 0.3s ease;
 }
