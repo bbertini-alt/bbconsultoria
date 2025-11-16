@@ -21,12 +21,10 @@ body {
 }
 
 /* HERO / Banner */
-.hero {
-    aspect-ratio: 3 / 1;  /* ajuste a proporção real da imagem */
-    width: 100%;
-    background-image: url("banner.png");
-    background-size: cover;
-    background-position: center;
+.hero img {
+    display: block;
+    width: 100%;        /* ocupa toda a largura do site */
+    height: auto;       /* mantém a proporção original */
 }
 
 /* Botão */
