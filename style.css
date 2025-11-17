@@ -15,7 +15,7 @@ body {
 /* Container */
 .container {
     width: 90%;
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 2rem 0;
 }
@@ -23,18 +23,23 @@ body {
 /* HERO / Banner */
 .hero img {
     display: block;
-    width: 100%;        /* ocupa toda a largura do site */
+    width: 100%;
     height: auto;       /* mantém a proporção original */
+    image-rendering: auto;
 }
 
-/* Botão */
-.btn {
-    display: inline-block;
-    padding: 0.75rem 1.5rem;
-    background-color: #0056b3;
-    color: white;
-    text-decoration: none;
-    border-radius: 4px;
+/* SOBRE imagens */
+.sobre-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.sobre-img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;   /* evita distorção */
+    image-rendering: auto;
 }
 
 /* Sections */
@@ -46,15 +51,7 @@ body {
     background-color: #fafafa;
 }
 
-/* Footer */
-.footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1.5rem 0;
-}
-
-/* NAVBAR FIXA */
+/* Navbar fixa */
 .navbar {
     width: 100%;
     background: white;
@@ -87,31 +84,15 @@ body {
     color: #0056b3;
 }
 
-/* empurrar somente o primeiro conteúdo abaixo do menu fixo */
+/* Empurrar seção sobre para baixo por causa do menu fixo */
 #sobre {
     margin-top: 70px;
 }
 
-/* =============================== */
-/* 📌 IMAGENS DA SEÇÃO SOBRE       */
-/*     (SEM DEFORMAR, SEM PERDER) */
-/* =============================== */
-
-.sobre-container {
-    display: flex;
-    flex-direction: column;
-    gap: 25px;
-    align-items: center;
-    margin: 30px auto;
+/* Footer */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 0;
 }
-
-.sobre-img {
-    width: 100%;
-    max-width: 900px;
-    height: auto;
-    object-fit: contain;
-    display: block;
-    margin: 20px auto;
-}
-
-
