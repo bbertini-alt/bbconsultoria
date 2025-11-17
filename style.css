@@ -32,7 +32,7 @@ body {
 .sobre-container {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 0rem;
 }
 
 .sobre-img {
