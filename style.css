@@ -91,3 +91,24 @@ body {
 #sobre {
     margin-top: 70px;
 }
+
+/* =============================== */
+/* 📌 IMAGENS DA SEÇÃO SOBRE       */
+/*     (SEM DEFORMAR, SEM PERDER) */
+/* =============================== */
+
+.sobre-container {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+    margin: 30px auto;
+}
+
+.sobre-img {
+    display: block;
+    width: auto;            /* mantém tamanho original */
+    height: auto;           /* mantém proporção */
+    max-width: none;        /* impede que o CSS reduza */
+    image-rendering: auto;  /* melhor qualidade possível */
+}
