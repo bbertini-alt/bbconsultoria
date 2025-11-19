@@ -32,7 +32,7 @@ body {
 .sobre-container {
     display: flex;
     flex-direction: column;
-    gap: 0rem;
+    gap: 1rem;
 }
 
 .sobre-img {
@@ -65,7 +65,7 @@ body {
 .nav-container {
     display: flex;
     justify-content: center;
-    padding: 1rem 0;
+    padding: 1rem;
 }
 
 .nav-links {
