@@ -17,7 +17,7 @@ body {
     width: 90%;
     max-width: 900px;
     margin: 0 auto;
-    padding: 2rem 0;
+    padding: 0rem;
 }
 
 /* HERO / Banner */
@@ -65,7 +65,7 @@ body {
 .nav-container {
     display: flex;
     justify-content: center;
-    padding: 1rem;
+    padding: 0rem;
 }
 
 .nav-links {
