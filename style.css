@@ -194,3 +194,54 @@ body {
 .contato-form button:hover {
     background-color: #003f86;
 }
+/* ====== RESPONSIVIDADE GERAL ====== */
+@media (max-width: 768px) {
+
+    /* Container mais confortável no mobile */
+    .container {
+        width: 92%;
+        padding: 1.5rem 0;
+    }
+
+    /* Títulos */
+    h2 {
+        font-size: 1.6rem;
+        text-align: center;
+    }
+
+    /* Navbar */
+    .nav-links {
+        gap: 1rem;
+        font-size: 0.9rem;
+    }
+
+    /* Banner (hero) */
+    .hero img {
+        height: auto;
+        width: 100%;
+    }
+
+    /* Imagens da seção sobre */
+    .sobre-container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .sobre-img {
+        width: 100%;
+        height: auto;
+    }
+
+    /* Cards */
+    .card {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    /* Carrossel */
+    .carousel img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+}
