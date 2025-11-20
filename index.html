@@ -84,23 +84,17 @@
 <section id="contato" class="section">
     <div class="container">
         <h2>Contato</h2>
-        <p>Entre em contato comigo preenchendo o formulário abaixo:</p>
 
-        <form class="contato-form" action="mailto:bbertini@estudante.ufscar.br" method="POST" enctype="text/plain">
-            
-            <label for="nome">Nome</label>
-            <input type="text" id="nome" name="nome" required>
-
-            <label for="email">E-mail</label>
-            <input type="email" id="email" name="email" required>
-
-            <label for="mensagem">Mensagem</label>
-            <textarea id="mensagem" name="mensagem" rows="5" required></textarea>
+        <form class="contato-form" action="https://formsubmit.co/bbertini@estudante.ufscar.br" method="POST">
+            <input type="text" name="nome" placeholder="Seu nome" required>
+            <input type="email" name="email" placeholder="Seu e-mail" required>
+            <textarea name="mensagem" rows="5" placeholder="Sua mensagem" required></textarea>
 
             <button type="submit">Enviar</button>
         </form>
     </div>
 </section>
+
 
 <footer class="footer">
     <div class="container">
