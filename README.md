@@ -2,17 +2,21 @@
 
 > Landing page desenvolvida para organização e apresentação de projetos, trabalhos acadêmicos e conteúdos relacionados à minha formação em **Engenharia Florestal**.
 
+### 🌐 Acesse a Landing Page
+
+👉 **[Visitar a Landing Page](https://bbertini-alt.github.io/bbconsultoria/)**
+
 ---
 
-## ✨ Sobre o projeto
+##  Sobre o projeto
 
 Este repositório apresenta uma **landing page pessoal desenvolvida com HTML, CSS e JavaScript**, criada para reunir e apresentar projetos desenvolvidos ao longo da graduação.
 
-A página funciona como uma interface de apresentação dos trabalhos e estudos, conectando minha formação em **Engenharia Florestal** com meu interesse crescente por **Geoprocessamento, Sistemas de Informação Geográfica (GIS), Sensoriamento Remoto e análise de dados espaciais**.
+A página funciona como uma interface de apresentação dos trabalhos e estudos, conectando minha formação em **Engenharia Florestal** com meu interesse por **Geoprocessamento, Sistemas de Informação Geográfica (GIS), Sensoriamento Remoto e análise de dados espaciais**.
 
 ---
 
-## 🖥️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 | Tecnologia          | Aplicação                                   |
 | ------------------- | ------------------------------------------- |
@@ -24,7 +28,7 @@ A página funciona como uma interface de apresentação dos trabalhos e estudos,
 
 ---
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 
 ```text
 inventario-disciplina/
@@ -44,7 +48,7 @@ inventario-disciplina/
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 O projeto foi desenvolvido com os seguintes objetivos:
 
@@ -57,47 +61,47 @@ O projeto foi desenvolvido com os seguintes objetivos:
 
 ---
 
-## 🌱 Áreas de interesse
+##  Áreas de interesse
 
 Minha formação em **Engenharia Florestal** direciona meus estudos para áreas que envolvem tecnologia, dados e análise espacial.
 
-### 🗺️ Geoprocessamento
+###  Geoprocessamento
 
-* Sistemas de Informação Geográfica (GIS)
-* análise espacial
-* produção cartográfica
-* processamento de dados geográficos
+* Sistemas de Informação Geográfica (GIS);
+* análise espacial;
+* produção cartográfica;
+* processamento de dados geográficos.
 
-### 🛰️ Sensoriamento Remoto
+###  Sensoriamento Remoto
 
-* imagens de satélite
-* índices de vegetação
-* monitoramento ambiental
-* análise multitemporal
+* imagens de satélite;
+* índices de vegetação;
+* monitoramento ambiental;
+* análise multitemporal.
 
-### 🌲 Engenharia Florestal
+###  Engenharia Florestal
 
-* inventário florestal
-* mensuração florestal
-* análise de dados florestais
-* monitoramento de recursos naturais
+* inventário florestal;
+* mensuração florestal;
+* análise de dados florestais;
+* monitoramento de recursos naturais.
 
-### 📊 Dados
+###  Dados
 
-* análise exploratória
-* visualização de dados
-* estatística aplicada
-* automação de análises
+* análise exploratória;
+* visualização de dados;
+* estatística aplicada;
+* automação de análises.
 
 ---
 
-## 🚀 Evolução do portfólio
+##  Evolução do portfólio
 
 Este projeto representa uma etapa inicial da construção do meu portfólio digital.
 
 A partir dele, novos projetos passaram a ser desenvolvidos com foco maior em **Geoprocessamento, GIS, Sensoriamento Remoto, análise espacial e automação de processos**.
 
-Entre os projetos em desenvolvimento estão aplicações envolvendo:
+Entre os projetos em desenvolvimento estão:
 
 * 🌳 monitoramento de vegetação;
 * 🗺️ análise espacial;
@@ -108,25 +112,27 @@ Entre os projetos em desenvolvimento estão aplicações envolvendo:
 
 ---
 
-## 👩‍💻 Autoria
+##  Autoria
 
 **Bruna Bertini**
 
-🎓 Engenharia Florestal — UFSCar
+🎓 Engenharia Florestal — UFSCar Sorocaba
 
 📍 Brasil
 
-Áreas de interesse:
-
-**Geoprocessamento • GIS • Sensoriamento Remoto • Análise Espacial • Dados Ambientais • Engenharia Florestal**
+**Áreas de interesse:**
+Geoprocessamento • GIS • Sensoriamento Remoto • Análise Espacial • Dados Ambientais • Engenharia Florestal
 
 ---
 
-## 📌 Observação
+##  Observação
 
 Este repositório possui caráter **acadêmico e demonstrativo**, sendo parte da evolução do meu portfólio e da construção de competências em tecnologia aplicada às Ciências Florestais.
 
 ---
 
-⭐ Obrigada por visitar este projeto!
+### 🌐 Projeto publicado
 
+**[🔗 Acessar a Landing Page](https://bbertini-alt.github.io/bbconsultoria/)**
+
+ Obrigada por visitar este projeto!
