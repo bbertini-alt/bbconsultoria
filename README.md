@@ -94,7 +94,7 @@ Minha graduação em **Engenharia Florestal** aplica diversos estudos que envolv
 
 ##  Observação
 
-Este repositório possui caráter **acadêmico e demonstrativo**, sendo parte da evolução do meu portfólio e da construção de competências em tecnologia aplicada às Ciências Florestais.
+Este repositório possui caráter **acadêmico e demonstrativo**, sendo parte da evolução do meu portfólio e da construção de competências em tecnologias aplicadas.
 
 ---
 
