@@ -87,9 +87,7 @@ Minha graduação em **Engenharia Florestal** aplica diversos estudos que envolv
 
 **Bruna Bertini**
 
-🎓 Engenharia Florestal — UFSCar Sorocaba
-
-📍 Brasil
+🎓 Engenharia Florestal — UFSCar 
 
 
 ---
