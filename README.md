@@ -95,22 +95,6 @@ Minha formação em **Engenharia Florestal** direciona meus estudos para áreas 
 
 ---
 
-##  Evolução do portfólio
-
-Este projeto representa uma etapa inicial da construção do meu portfólio digital.
-
-A partir dele, novos projetos passaram a ser desenvolvidos com foco maior em **Geoprocessamento, GIS, Sensoriamento Remoto, análise espacial e automação de processos**.
-
-Entre os projetos em desenvolvimento estão:
-
-* 🌳 monitoramento de vegetação;
-* 🗺️ análise espacial;
-* 🛰️ dados de sensoriamento remoto;
-* 🌲 inventário florestal;
-* 📈 análise estatística;
-* 🌡️ análise de dados meteorológicos e conforto térmico.
-
----
 
 ##  Autoria
 
