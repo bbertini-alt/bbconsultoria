@@ -63,7 +63,7 @@ O projeto foi desenvolvido com os seguintes objetivos:
 
 ##  Graduação 
 
-Minha formação em **Engenharia Florestal** direciona meus estudos para áreas que envolvem tecnologia, dados e análise espacial.
+Minha graduação em **Engenharia Florestal** aplica diversos estudos que envolvem tecnologia, dados e análise espacial.
 
 * inventário florestal;
 * mensuração florestal;
