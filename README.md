@@ -73,7 +73,7 @@ Minha graduação em **Engenharia Florestal** aplica diversos estudos que envolv
 
 ###  Ciência de dados
 
-É um campo de atuação presente para diversos profissionais na área florestal, sendo fundamental o conhecimento básico de ciência de dados.
+É um campo de atuação presente para diversos profissionais na área florestal, sendo fundamental o conhecimento básico sobre ciência de dados.
 
 * análise exploratória;
 * visualização de dados;
