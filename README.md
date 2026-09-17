@@ -1,4 +1,4 @@
-# 🌿 Portfólio Acadêmico — Engenharia Florestal
+#  Portfólio Acadêmico — Engenharia Florestal
 
 > Landing page desenvolvida para organização e apresentação de projetos, trabalhos acadêmicos e conteúdos relacionados à minha formação em **Engenharia Florestal**.
 
@@ -8,7 +8,7 @@
 
 ---
 
-##  Sobre o projeto
+##  Sobre o projeto 🌿
 
 Este repositório apresenta uma **landing page pessoal desenvolvida com HTML, CSS e JavaScript**, criada para reunir e apresentar projetos desenvolvidos ao longo da graduação.
 
