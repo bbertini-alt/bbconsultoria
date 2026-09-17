@@ -61,32 +61,19 @@ O projeto foi desenvolvido com os seguintes objetivos:
 
 ---
 
-##  Áreas de interesse
+##  Graduação 
 
 Minha formação em **Engenharia Florestal** direciona meus estudos para áreas que envolvem tecnologia, dados e análise espacial.
-
-###  Geoprocessamento
-
-* Sistemas de Informação Geográfica (GIS);
-* análise espacial;
-* produção cartográfica;
-* processamento de dados geográficos.
-
-###  Sensoriamento Remoto
-
-* imagens de satélite;
-* índices de vegetação;
-* monitoramento ambiental;
-* análise multitemporal.
-
-###  Engenharia Florestal
 
 * inventário florestal;
 * mensuração florestal;
 * análise de dados florestais;
-* monitoramento de recursos naturais.
+* geoprocessamento 
 
-###  Dados
+
+###  Ciência de dados
+
+É um campo de atuação presente para diversos profissionais na área florestal, sendo fundamental o conhecimento básico de ciência de dados.
 
 * análise exploratória;
 * visualização de dados;
