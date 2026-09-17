@@ -104,8 +104,6 @@ Minha formação em **Engenharia Florestal** direciona meus estudos para áreas 
 
 📍 Brasil
 
-**Áreas de interesse:**
-Geoprocessamento • GIS • Sensoriamento Remoto • Análise Espacial • Dados Ambientais • Engenharia Florestal
 
 ---
 
